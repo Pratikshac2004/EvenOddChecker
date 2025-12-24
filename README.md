@@ -37,7 +37,6 @@ EvenOddChecker/
 │
 ├── src/
 │ └── EvenOddChecker.java
-│ 
 │
 ├── screenshots/
 │ └── app-ui.png
@@ -59,4 +58,5 @@ EvenOddChecker/
 ```bash
 javac EvenOddChecker.java
 java EvenOddChecker
+
 ```
